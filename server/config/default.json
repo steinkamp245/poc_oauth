@@ -1,0 +1,8 @@
+{
+    "jwtPrivateKey": "",
+    "googleOauth": {
+        "clientId": "",
+        "clientSecret": ""
+    },
+    "db": "mongodb://localhost:27017/poc_oauth"
+}
