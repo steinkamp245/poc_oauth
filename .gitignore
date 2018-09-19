@@ -8,6 +8,7 @@ espowered/
 node_modules/
 typings/
 
+server/**/error.log
 server/**/set-config.sh
 server/**/*.js
 server/**/*.js.map
